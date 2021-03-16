@@ -23,6 +23,8 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-pabgutceb" action="https://youtu.be/ie7Xfq_QjsE"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-romflorod" action="https://youtu.be/yvdSYlcQzn0"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alebangon" action="https://youtu.be/YVioJF0xHcs"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-julibamon" action="https://www.youtube.com/watch?v=YWFVJSh34mI"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-andmecsan" action="https://www.tiktok.com/@charliethechipmunk/video/6933287092856425733"/>	
 		</acme:menu-option>
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
